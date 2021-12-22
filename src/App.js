@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Cactus Tree Practice Project</h1>
-        <p>catalina wine mixer</p>
+        <p>It's the Catalina Wine Mixer</p>
     </div>
   );
 }
