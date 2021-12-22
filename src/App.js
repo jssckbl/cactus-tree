@@ -12,6 +12,8 @@ function App() {
 
         <h3>Happy holidays everyone :)</h3>
 
+      <h1 className='text-center'>Mekatron is the best and you know it.</h1>
+
     </div>
   );
 }
