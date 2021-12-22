@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Cactus Tree Practice Project</h1>
-      <p>Scranton_and_Stamford_merger<p>
+      <p>Scranton_and_Stamford_merger</p>
         <p>It's the Catalina Wine Mixer</p>
 
         <h2>The coolest fake project ever</h2>
@@ -15,6 +15,7 @@ function App() {
         <h3>Happy holidays everyone :)</h3>
 
       <h1 className='text-center'>Mekatron is the best and you know it.</h1>
+        <button type='button' onClick={() => alert('Coal in your stocking for Christmas lol.')}>Happy Holidays</button>
     </div>
   );
 }
